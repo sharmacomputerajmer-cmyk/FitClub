@@ -41,7 +41,7 @@ const Header = () => {
               spy={true}
               smooth={true}
             >
-              Programssssssssssss
+              Programs
             </Link>
           </li>
           <li>
